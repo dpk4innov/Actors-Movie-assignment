@@ -1,0 +1,8 @@
+Running Time Analysis:
+
+Time complexity for Function readActMovfile=O(n)
+Time complexity for Function displayActMov=O(n)
+Time complexity for Function displayMoviesOfActor=O(n^2)
+Time complexity for Function displayActorsOfMovie=O(n^2)
+Time complexity for Function findMovieRelation=O(n^2)
+Time complexity for Function findMovieTransRelation=Θ(n^3) 
